@@ -24,7 +24,7 @@ riders: [
   { id: 7, name: "Wadi3", motorcycle: "X-ADV", image: "/riders/wadi3.jpg" },
   { id: 8, name: "Farid", motorcycle: "X-ADV", image: "/riders/farid.jpg" },
   { id: 9, name: "Chamali", motorcycle: "Tracer 700", image: "/riders/chamalii.png" },
-  { id: 10, name: "Wassim Yakhlef", motorcycle: "", image: "/riders/unknown.png" },
+  { id: 10, name: "Wassim Yakhlef", motorcycle: "", image: "/riders/wassim.jpg" },
   { id: 11, name: "Anuar", motorcycle: "", image: "/riders/unknown.png" },
 ],
 };
