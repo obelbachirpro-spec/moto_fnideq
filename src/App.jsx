@@ -89,6 +89,15 @@ function App() {
         </div>
       </section>
 
+
+<audio
+  className="background-audio"
+  src="/audio/moto-ride.mp3"
+  autoPlay
+  loop
+  controls
+/>
+
       {/* PILOTOS */}
       {/* <section className="crew">
         <div className="section-heading">
@@ -202,12 +211,7 @@ function App() {
           ))}
         </div>
       </section>
-      <audio
-  src="/audio/moto-ride.mp3"
-  autoPlay
-  loop
-  controls
-/>
+
 
       {/* PIE DE PÁGINA */}
       <footer className="footer">

@@ -1,6 +1,12 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap");
 
+
+.background-audio {
+  display: block;
+  margin: 20px auto 0px;
+}
+
 :root {
   font-family: "Inter", sans-serif;
   background: #f4f5f7;
@@ -368,7 +374,7 @@ body {
   }
 
   .hero-route {
-    font-size: 9px;
+    font-size: 15px;
     line-height: 1.8;
   }
 
